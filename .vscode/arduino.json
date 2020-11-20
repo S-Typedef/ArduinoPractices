@@ -1,0 +1,6 @@
+{
+    "port": "COM3",
+    "programmer": "ArduinoISP",
+    "board": "arduino:avr:uno",
+    "sketch": "Project\\Sensor\\Practices\\Demo12\\LCD\\LCD.ino"
+}
